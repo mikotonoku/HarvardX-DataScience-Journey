@@ -1,5 +1,5 @@
 # HarvardX-DataScience-Journey
-> :paperclip: *This repository documents my learning journey in **data science and machine learning using Python**. Projects and exercises are based on **HarvardX CS109x** and additional self-study.*
+:paperclip: *This repository documents my learning journey in **data science and machine learning using Python**. Projects and exercises are based on **HarvardX CS109x** and additional self-study.*
 
 ## Exercises:
 >* :page_facing_up: [Simple Data Plotting *File: s1-ex1a-challenge*](#page_facing_up-mlp-network-structure-classification)
