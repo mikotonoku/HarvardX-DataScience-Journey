@@ -7,7 +7,7 @@
 >* [Finding the Best k in kNN Regression *File: s1-exb1-challenge*](#finding-the-best-k-in-knn-regression-file-s1-exb1-challenge)
 >* [Features: Must We Pick Just One? *File: intro_to_multilinear_scaffold*](#features-must-we-pick-just-one-file-intro_to_multilinear_scaffold)
 >* [Fitting a Multi-Regression Model *File: s2-exa1-challenge*](#fitting-a-multi-regression-model-file-s2-exa1-challenge)
->* [Design Matrix: Creating Dummy/Indicator Variables *File: get_dummies*](#design-matrix-creating-dummy-indicator-variables-file-get_dummies)
+>* [Design Matrix: Creating Dummy/Indicator Variables *File: get_dummies*](#design-matrix-creating-dummy/indicator-variables-file-get_dummies)
 >* [Features on Different Scales *File: interp_diff_scales*](#features-on-different-scales-file-interp_diff_scales)
 
 ### Simple Data Plotting *File: s1-ex1a-challenge*
