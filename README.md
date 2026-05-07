@@ -9,7 +9,7 @@
 >* [Fitting a Multi-Regression Model *File: s2-exa1-challenge*](#fitting-a-multi-regression-model-file-s2-exa1-challenge)
 >* [Design Matrix: Creating Dummy/Indicator Variables *File: get_dummies*](#design-matrix-creating-dummyindicator-variables-file-get_dummies)
 >* [Features on Different Scales *File: interp_diff_scales*](#features-on-different-scales-file-interp_diff_scales)
->* [Multi-collinearity vs Model Predictions *File: s2-exb2-challenge*](#multicollinearity-vs-model-predictions-file-s2-exb2-challenge)
+>* [Multi-collinearity vs Model Predictions *File: s2-exb2-challenge*](#multi-collinearity-vs-model-predictions-file-s2-exb2-challenge)
 
 ### Simple Data Plotting *File: s1-ex1a-challenge*
 The aim of this exercise is to **plot** TV Ads vs Sales based on the Advertisement dataset which should look similar to the graph given below.
