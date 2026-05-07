@@ -10,6 +10,7 @@
 >* [Design Matrix: Creating Dummy/Indicator Variables *File: get_dummies*](#design-matrix-creating-dummyindicator-variables-file-get_dummies)
 >* [Features on Different Scales *File: interp_diff_scales*](#features-on-different-scales-file-interp_diff_scales)
 >* [Multi-collinearity vs Model Predictions *File: s2-exb2-challenge*](#multi-collinearity-vs-model-predictions-file-s2-exb2-challenge)
+>* [A Line Won't Cut It *File: poly*](#a-line-wont-cut-it-file-poly)
 
 ### Simple Data Plotting *File: s1-ex1a-challenge*
 The aim of this exercise is to **plot** TV Ads vs Sales based on the Advertisement dataset which should look similar to the graph given below.
@@ -53,4 +54,11 @@ In this exercise we will explore what affect including features of different sca
 The goal of this exercise is to see how multi-collinearity can affect the predictions of a model.
 
 For this, perform a multi-linear regression on the given dataset and compare the coefficients with those from simple linear regression of the individual predictors.
+>:arrow_left: [**Back to *EXERCISES***](#weight_lifting_woman-exercises)
+
+### A Line Won't Cut It *File: poly*
+Here we encounter a non-linear dataset that motivates model of higher degree.
+
+We'll judge that a the linear model is ill-suited for this data by plotting the model's predictions and inspecting its residuals. 
+<img width="774" height="303" alt="Screen Shot 2021-06-20 at 4 54 14 PM" src="https://github.com/user-attachments/assets/b5c02f8a-492d-4334-a44f-eb426117d562" />
 >:arrow_left: [**Back to *EXERCISES***](#weight_lifting_woman-exercises)
