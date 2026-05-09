@@ -11,6 +11,7 @@
 >* [Features on Different Scales *File: interp_diff_scales*](#features-on-different-scales-file-interp_diff_scales)
 >* [Multi-collinearity vs Model Predictions *File: s2-exb2-challenge*](#multi-collinearity-vs-model-predictions-file-s2-exb2-challenge)
 >* [A Line Won't Cut It *File: poly*](#a-line-wont-cut-it-file-poly)
+>* [Polynomial Modeling *File: s2-exb1-challenge*](#polynomial-modeling-file-s2-exb1-challenge)
 
 ### Simple Data Plotting *File: s1-ex1a-challenge*
 The aim of this exercise is to **plot** TV Ads vs Sales based on the Advertisement dataset which should look similar to the graph given below.
@@ -61,4 +62,9 @@ Here we encounter a non-linear dataset that motivates model of higher degree.
 
 We'll judge that a the linear model is ill-suited for this data by plotting the model's predictions and inspecting its residuals. 
 <img width="774" height="303" alt="Screen Shot 2021-06-20 at 4 54 14 PM" src="https://github.com/user-attachments/assets/b5c02f8a-492d-4334-a44f-eb426117d562" />
+>:arrow_left: [**Back to *EXERCISES***](#weight_lifting_woman-exercises)
+
+### Polynomial Modeling *File: s2-exb1-challenge*
+The goal of this exercise is to fit linear regression and polynomial regression to the given data. Plot the fit curves of both the models along with the data and observe what the residuals tell us about the two fits. 
+<img width="516" height="355" alt="Screenshot 2020-07-22 at 12 24 05 PM" src="https://github.com/user-attachments/assets/3d8a119b-5667-43c5-b4b8-be8388ca0a84" />
 >:arrow_left: [**Back to *EXERCISES***](#weight_lifting_woman-exercises)
